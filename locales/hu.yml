@@ -1,0 +1,14 @@
+button:
+  about: Rólam
+  back: Vissza
+  go: Mehet
+  home: Haza
+  toggle_dark: Sötét mód váltó
+  toggle_langs: Nyelv választás
+intro:
+  desc: Jó kis Vite Start Templét
+  dynamic-route: Demo of dynamic routeDinamikus útválaszt demó
+  hi: Szia, {name}!
+  aka: Úgy is ismert, mint
+  whats-your-name: Hogy hívnak?
+not-found: Nincs ilyen
